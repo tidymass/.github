@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+TidyMass is a comprehensive computational framework for data processing and analysis of LC-MS data using tidyverse principles.
+
+Install tidymass:
+
+```
+remotes::install_gitlab("tidymass/tidymass")
+```
+
+or 
+
+```
+source("https://www.tidymass.org/tidymass-packages/install_tidymass.txt")
+install_tidymass(from = "tidymass.org")
+```
+
+[More here](https://www.tidymass.org/)
+
 <!--
 
 **Here are some ideas to get you started:**
